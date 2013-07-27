@@ -3,5 +3,6 @@
 int main() {
 	using namespace std;
 	cout << "abc.." << endl;
+	cout << "def..." << endl;
 	return 0;
 }
